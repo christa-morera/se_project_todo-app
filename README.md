@@ -1,17 +1,43 @@
-# Simple Todo App
+# To-Do App
 
-Give a brief description of the project here. Feel free to give it a different name.
+A simple to-do list application built with JavaScript using Object-Oriented Programming (OOP).  
+Users can add tasks, mark them as completed, and delete them.  
+The project focuses on clean architecture, reusable components, and form validation.
 
-## Functionality
+## 🚀 Live Demo
+[View the project on GitHub Pages]https://christa-morera.github.io/se_project_todo-app/
 
-Give a more detailed explanation of the project and its functionality.
+## 🛠 Technologies Used
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Object-Oriented Programming (OOP)
+- Git & GitHub
+- GitHub Pages
 
-## Technology
+## ✨ Features
+- Add new to-do items using a form
+- Form validation with custom error messages
+- Disable submit button when inputs are invalid
+- Reset form and validation state after successful submission
+- Mark tasks as completed
+- Delete tasks
+- Generate unique IDs using UUID
+- Dynamically render tasks using HTML `<template>`
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+## 🧠 What I Learned
+- How to refactor procedural code into classes
+- How to use encapsulation to separate logic and UI
+- How to work with HTML templates and dynamically create DOM elements
+- How to manage form validation using a reusable class
+- How to structure a project using modules
 
-## Deployment
+## 📌 Future Improvements
+- Persist todos using localStorage
+- Add edit functionality
+- Add filtering (completed / active)
+- Improve accessibility
 
-This project is deployed on GitHub Pages:
-
-- ADD LINK HERE
+## 👤 Author
+Christa Morera  
+Aspiring Full-Stack Software Engineer
