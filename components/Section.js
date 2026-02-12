@@ -1,5 +1,3 @@
-import { initialTodos } from "../utils/constants.js";
-
 class Section {
   constructor({ items, renderer, containerSelector }) {
     this._items = items;
